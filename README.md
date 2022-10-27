@@ -1,2 +1,2 @@
-# PROXIMA-CENTAURI-B
+# PROXIMA-1
 Homework/Projects
